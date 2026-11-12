@@ -1,0 +1,10 @@
+{
+  "name": "Digital Farming - Smart Farming & Crop Intelligence",
+  "description": "Smart Farming. Better Harvests. Brighter Futures. AI-powered agriculture platform for Indian farmers with real-time weather, crop disease detector, Mandi prices, crop tracker, and farming assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
